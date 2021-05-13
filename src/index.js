@@ -27,9 +27,9 @@ const element1 = <div>
 </div>
 
 ReactDOM.render(
-    // <App />,
+     <App />,
     // Item name="Teja" />,
-     element1,
+    // element1,
   document.getElementById('root')
 );
 

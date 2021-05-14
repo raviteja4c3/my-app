@@ -5,7 +5,6 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 
 import 'semantic-ui-css/semantic.min.css';
-import { Button } from 'semantic-ui-react';
 
 const item = <p>This is an item element</p>
 const Item = (props) => {
